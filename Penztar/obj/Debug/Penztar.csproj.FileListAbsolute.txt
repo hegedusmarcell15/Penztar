@@ -1,0 +1,7 @@
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\bin\Debug\Penztar.exe.config
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\bin\Debug\Penztar.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\bin\Debug\Penztar.pdb
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\obj\Debug\Penztar.csproj.AssemblyReference.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\obj\Debug\Penztar.csproj.CoreCompileInputs.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\obj\Debug\Penztar.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Penztar\Penztar\obj\Debug\Penztar.pdb
